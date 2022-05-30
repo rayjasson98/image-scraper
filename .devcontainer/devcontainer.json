@@ -33,13 +33,15 @@
 
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
-    "ms-python.python", 
-    "ms-python.vscode-pylance", 
     "github.copilot",
     "github.copilot-labs",
+    "ms-python.python", 
+    "ms-python.vscode-pylance",
+    "mutantdino.resourcemonitor",
+    "pierrick.tinypngminimifyandcrop",
+    "tyriar.luna-paint",
     "visualstudioexptteam.vscodeintellicode",
-    "visualstudioexptteam.intellicode-api-usage-examples",
-    "mutantdino.resourcemonitor"
+    "visualstudioexptteam.intellicode-api-usage-examples"
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
