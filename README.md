@@ -20,4 +20,4 @@
 - Google crawler from `FastClass` won't work.
 - If you face issues when using `google-images-download`, see [#360](https://github.com/hardikvasa/google-images-download/issues/360#issuecomment-1048313028) and [#298](https://github.com/hardikvasa/google-images-download/pull/298) to learn how to download the forked version that has the bug fix. It seems like `google-images-download` is not maintained by the current repo owner anymore.
 - You can use [TinyPNG](https://tinypng.com) and its [VS Code extension](https://marketplace.visualstudio.com/items?itemName=Pierrick.tinypngminimifyandcrop) to resize and compress your scraped images. Get your API key [here](https://tinypng.com/developers).
-- By default, this repo comes with a `devcontainer.json` configuration. If you have Docker installed, you can start the container to get packages and extensions installed at one go.
+- By default, this repo comes with a `devcontainer.json` configuration. If you have Docker installed, you can start the container to get all packages and extensions installed at one go.
