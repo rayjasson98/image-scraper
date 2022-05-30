@@ -1,0 +1,28 @@
+{
+  "Records": [
+    {
+      "keywords": "pisang goreng",
+      "limit": 100,
+      "output_directory": "../raw_images",
+      "no_directory": true,
+      "print_urls": true,
+      "save_source": "pisang_goreng.log"
+    },
+    {
+      "keywords": "fried banana",
+      "limit": 100,
+      "output_directory": "../raw_images",
+      "no_directory": true,
+      "print_urls": true,
+      "save_source": "fried_banana.log"
+    },
+    {
+      "keywords": "banana fritters",
+      "limit": 100,
+      "output_directory": "../raw_images",
+      "no_directory": true,
+      "print_urls": true,
+      "save_source": "banana_fritters.log"
+    }
+  ]
+}

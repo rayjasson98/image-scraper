@@ -1,2 +1,5 @@
 .venv
 __pycache__/
+
+raw_images
+/raw_images
